@@ -1,0 +1,62 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Front-end development, often referred to as client-side development, is a crucial discipline in the realm of web development. It primarily focuses on creating and enhancing the user interface (UI) and user experience (UX) of a website or web application"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Backend development is the technological backbone that powers the digital world as we know it today. It's the invisible force behind web and mobile applications, handling the logic, data processing, and server-side operations that enable the user interface to function seamlessly"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "UI (User Interface) and UX (User Experience) development are integral aspects of creating user-friendly and engaging digital products, such as websites and mobile apps."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "MERN Stack Development is a popular and versatile web development approach. MERN Stack has gained popularity for building modern web applications, including e-commerce platforms, social networks, and content management systems."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/project1.png",
+      "title": "Stay-Sense",
+      "description": "StaySense is a hotel management website.",
+      "link": "https://github.com/Himanshu8825/Hotel-Stay-Sense.git",
+      "heading":"Code",
+      "link2":"https://stay-sense.onrender.com/",
+      "heading2":"Live Demo"
+    },
+    {
+      "id": "2",
+      "src": "./img/project3.png",
+      "title": "Hire-Hub",
+      "description": "Hire-Hub is a placement based management website",
+      "link": "https://github.com/Himanshu8825/Hire-Hub.git",
+      "heading":"Code",
+      "link2":"https://hire-hub-aklu.onrender.com/",
+      "heading2":"Live Demo"
+
+
+    },
+    {
+      "id": "3",
+      "src": "./img/project4.png",
+      "title": "Drawing App",
+      "description": "Drawing App ",
+      "link":"https://github.com/Himanshu8825/Drawing-App.git",
+      "heading":"Code",
+      "link2":"https://quiet-tartufo-07adf6.netlify.app/",
+      "heading2":"Live Demo"
+    }
+  ] 
+}
